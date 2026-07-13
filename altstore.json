@@ -1,0 +1,47 @@
+{
+  "name": "Wekon",
+  "subtitle": "Официальный источник Wekon для AltStore",
+  "description": "Wekon — мобильный клиент для чатов, голосовых сообщений и звонков.",
+  "iconURL": "https://baculinivan-web.github.io/wekon_ios/assets/icon.png",
+  "website": "https://github.com/baculinivan-web/wekon_ios",
+  "tintColor": "#7C5CFF",
+  "featuredApps": [
+    "ru.wekon.ios"
+  ],
+  "apps": [
+    {
+      "name": "Wekon",
+      "bundleIdentifier": "ru.wekon.ios",
+      "developerName": "SpeachGame",
+      "subtitle": "Чаты, голосовые сообщения и звонки",
+      "localizedDescription": "Wekon — нативный iOS-клиент для общения: личные и групповые чаты, обмен медиа, голосовые сообщения и аудиозвонки.",
+      "iconURL": "https://baculinivan-web.github.io/wekon_ios/assets/icon.png",
+      "tintColor": "#7C5CFF",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-07-13T13:16:00+03:00",
+          "localizedDescription": "Первый релиз Wekon для AltStore.",
+          "downloadURL": "https://github.com/baculinivan-web/wekon_ios/releases/download/v0.1.0/WekonIOS.ipa",
+          "size": 26483070,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Wekon needs camera access to attach photos and videos.",
+          "NSMicrophoneUsageDescription": "Wekon needs microphone access to record voice messages and join calls.",
+          "NSPhotoLibraryAddUsageDescription": "Wekon can save received media when you choose to download it.",
+          "NSPhotoLibraryUsageDescription": "Wekon needs photo library access to attach images and videos."
+        }
+      }
+    }
+  ],
+  "news": []
+}
