@@ -20,7 +20,7 @@
       "category": "social",
       "screenshots": [
         {
-          "imageURL": "https://baculinivan-web.github.io/wekon_ios/screenshots/IMG_3554.png",
+          "imageURL": "https://baculinivan-web.github.io/wekon_ios/screenshots/IMG_3632.png",
           "width": 1170,
           "height": 2532
         },
@@ -31,6 +31,15 @@
         }
       ],
       "versions": [
+        {
+          "version": "0.1.1",
+          "buildVersion": "2",
+          "date": "2026-07-15T12:59:28+03:00",
+          "localizedDescription": "Обновление Wekon: улучшения отображения сообщений и стабильности чатов.",
+          "downloadURL": "https://github.com/baculinivan-web/wekon_ios/releases/download/v0.1.1/WekonIOS.ipa",
+          "size": 26660917,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.1.0",
           "buildVersion": "1",
