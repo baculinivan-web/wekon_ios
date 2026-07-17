@@ -32,6 +32,15 @@
       ],
       "versions": [
         {
+          "version": "0.1.2",
+          "buildVersion": "3",
+          "date": "2026-07-17T13:20:50+03:00",
+          "localizedDescription": "GIF в чатах, пересылка сообщений, офлайн-кэш чатов и каналов, новые инструменты сообществ, улучшенная работа с медиа и реакциями.",
+          "downloadURL": "https://github.com/baculinivan-web/wekon_ios/releases/download/v0.1.2/WekonIOS.ipa",
+          "size": 27109156,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.1",
           "buildVersion": "2",
           "date": "2026-07-15T12:59:28+03:00",
