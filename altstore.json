@@ -32,6 +32,15 @@
       ],
       "versions": [
         {
+          "version": "0.1.6",
+          "buildVersion": "7",
+          "date": "2026-10-23T01:46:00+03:00",
+          "localizedDescription": "Обновлен дизайн: нативный изумрудно-зеленый акцент и цвет баблов, улучшены свайпы для ответа, цитаты и упоминания участников.",
+          "downloadURL": "https://github.com/baculinivan-web/wekon_ios/releases/download/v0.1.6/WekonIOS.ipa",
+          "size": 32395858,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.5",
           "buildVersion": "6",
           "date": "2026-10-21T00:31:49+03:00",
